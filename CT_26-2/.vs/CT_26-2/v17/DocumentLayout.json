@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\\uCF54\uD14C 26-2\\Code\\CT_26-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0298D24D-325F-4469-B6F1-7349B13491B7}|CT_26-2.vcxproj|C:\\Users\\USER\\Downloads\\\uCF54\uD14C 26-2\\Code\\CT_26-2\\q2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0298D24D-325F-4469-B6F1-7349B13491B7}|CT_26-2.vcxproj|solutionrelative:q2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0298D24D-325F-4469-B6F1-7349B13491B7}|CT_26-2.vcxproj|C:\\Users\\USER\\Downloads\\\uCF54\uD14C 26-2\\Code\\CT_26-2\\q1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0298D24D-325F-4469-B6F1-7349B13491B7}|CT_26-2.vcxproj|solutionrelative:q1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q2.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\\uCF54\uD14C 26-2\\Code\\CT_26-2\\q2.c",
+              "RelativeDocumentMoniker": "q2.c",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\\uCF54\uD14C 26-2\\Code\\CT_26-2\\q2.c",
+              "RelativeToolTip": "q2.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-10T23:45:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "q1.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\\uCF54\uD14C 26-2\\Code\\CT_26-2\\q1.c",
+              "RelativeDocumentMoniker": "q1.c",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\\uCF54\uD14C 26-2\\Code\\CT_26-2\\q1.c",
+              "RelativeToolTip": "q1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-10T23:38:05.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
